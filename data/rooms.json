@@ -1,0 +1,154 @@
+[{
+		"_id": {
+			"$oid": "6310dd998cfecfd90b30ca28"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-01T16:28:09.506Z"
+		},
+		"desc": "King size bed",
+		"maxPeople": 3,
+		"price": 200,
+		"roomNumbers": [101, 102],
+		"title": "2 Bed Room",
+		"updatedAt": {
+			"$date": "2022-09-02T06:43:27.616Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6310e01a8cfecfd90b30ca30"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-01T16:38:50.351Z"
+		},
+		"desc": "1 Bathroom",
+		"maxPeople": 2,
+		"price": 150,
+		"roomNumbers": [202],
+		"title": "1 Bed Room",
+		"updatedAt": {
+			"$date": "2022-09-01T16:38:50.351Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311b2a24a642f01423490d6"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T07:37:06.178Z"
+		},
+		"desc": "Welcome drink, Coffee & tea, Express check-in, Free Premium Wifi, Free WiFi, Drinking water",
+		"maxPeople": 2,
+		"price": 600,
+		"roomNumbers": [101, 102],
+		"title": "Basement Double Room",
+		"updatedAt": {
+			"$date": "2022-09-02T07:37:06.178Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311b3944a642f01423490df"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T07:41:08.213Z"
+		},
+		"desc": "Free breakfast for 2",
+		"maxPeople": 2,
+		"price": 700,
+		"roomNumbers": [202, 203, 205],
+		"title": "Superior basement room",
+		"updatedAt": {
+			"$date": "2022-09-02T07:41:08.213Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311b47b4a642f01423490f4"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T07:44:59.829Z"
+		},
+		"desc": "Welcome drink, Coffee & tea, Express check-in, Free Premium Wifi, Free WiFi, Drinking water",
+		"maxPeople": 2,
+		"price": 700,
+		"roomNumbers": [303, 403, 404],
+		"title": "Deluxe Room",
+		"updatedAt": {
+			"$date": "2022-09-02T07:44:59.829Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311be30f2fce6ea18172fa8"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T08:26:24.542Z"
+		},
+		"desc": "Welcome drink, Coffee & tea, Express check-in, Free WiFi, Drinking water, Free fitness center access",
+		"maxPeople": 2,
+		"price": 300,
+		"roomNumbers": [101, 102],
+		"title": "Deluxe Window",
+		"updatedAt": {
+			"$date": "2022-09-02T08:26:24.542Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311be52f2fce6ea18172faf"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T08:26:58.319Z"
+		},
+		"desc": "Extra low price! (non-refundable)",
+		"maxPeople": 2,
+		"price": 425,
+		"roomNumbers": [202, 203, 205],
+		"title": "Premier City View Room",
+		"updatedAt": {
+			"$date": "2022-09-02T08:26:58.319Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311c083f2fce6ea18172fba"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T08:36:19.990Z"
+		},
+		"desc": "Pay nothing until September 04, 2022",
+		"maxPeople": 2,
+		"price": 350,
+		"roomNumbers": [101, 102],
+		"title": "Budget Double Room",
+		"updatedAt": {
+			"$date": "2022-09-02T08:36:19.990Z"
+		}
+	},
+	{
+		"_id": {
+			"$oid": "6311c0a8f2fce6ea18172fc3"
+		},
+		"__v": 0,
+		"createdAt": {
+			"$date": "2022-09-02T08:36:56.388Z"
+		},
+		"desc": "Free cancellation before September 06, 2022",
+		"maxPeople": 2,
+		"price": 350,
+		"roomNumbers": [202, 203, 205],
+		"title": "Budget Twin Room",
+		"updatedAt": {
+			"$date": "2022-09-02T08:36:56.388Z"
+		}
+	}
+]

@@ -1,0 +1,85 @@
+[
+  {
+    "address": "Hang Da, 95 Hang Bong Street, Old Quarter, Hanoi, Vietnam",
+    "cheapestPrice": 150,
+    "city": "Ha Noi",
+    "desc": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Strategically situated in Old Quarter, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Old Quarter. Rated with 4 stars, this high-quality property provides guests with access to massage, restaurant and fitness center on-site.",
+    "distance": "10",
+    "featured": true,
+    "name": "HANOI ROYAL PALACE HOTEL 2",
+    "photos": [
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Fe76962680bcc984f7b0876da6ac5caa8.jpg?alt=media&token=f4fe570e-703f-47be-8510-65fea3bf73ed",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F0a77da6e3c4f95e95bd84f5dbaeb2a74.jpg?alt=media&token=14e08975-1878-472b-92be-e4af91fa45bf",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F25517748837ba92fcb96c176f627d498.jpg?alt=media&token=5d9c6054-332a-4804-8606-e484fb8ba412",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F57474c14e32152ea509c39adaaf3f781.jpg?alt=media&token=98f2ad6b-c527-491a-a5ef-57dc2d21401a"
+    ],
+    "rooms": ["6310dd998cfecfd90b30ca28"],
+    "title": "HANOI ROYAL PALACE HOTEL 2",
+    "type": "hotel",
+    "rating": 4
+  },
+  {
+    "__v": 0,
+    "address": "Hang Dau, Hoan Kiem District, Hanoi, Vietnam",
+    "cheapestPrice": 600,
+    "city": "Ha Noi",
+    "desc": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Strategically situated in Hoan Kiem District, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Old Quarter. Rated with 4 stars, this high-quality property provides guests with access to massage, restaurant and hot tub on-site.",
+    "distance": "200",
+    "featured": true,
+    "name": "La Sinfonia del Rey Hotel and Spa",
+    "photos": [
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F70c9f415d4bbc7d2d86b492d46e5aa68.jpg?alt=media&token=e83f0e06-6e4c-4a3b-8601-72b39d311bdd",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F95c472f9e927d2f62293cb721818e6ad.jpg?alt=media&token=07986b5c-5beb-4d75-b675-8742898c65e2",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F202714c15017a85fdcc8ab6674605f94.jpg?alt=media&token=0006b638-5f5d-453c-9395-03f8a66bce0e",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Ff6c5faa6f6fa8696a113fdefc0d259f8.jpg?alt=media&token=ba65ed65-cf31-4a6c-855d-ed3f9a0d1c21",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Ff20208fb8f2fadcbeb9c246761aa6aab.jpg?alt=media&token=67d9c3b7-5780-4be4-8d48-2eb5e0f056fc"
+    ],
+    "rooms": [
+      "6310dd998cfecfd90b30ca28",
+      "6310e01a8cfecfd90b30ca30",
+      "6311b2a24a642f01423490d6",
+      "6311b3944a642f01423490df",
+      "6311b47b4a642f01423490f4"
+    ],
+    "title": "La Sinfonia del Rey Hotel and Spa",
+    "type": "hotel",
+    "rating": 3
+  },
+  {
+    "address": "23-25 Nguyen Sieu, Hang Buom, Hoan Kiem, Old Quarter, Hanoi, Vietnam",
+    "cheapestPrice": 325,
+    "city": "Ha Noi",
+    "desc": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Strategically situated in Old Quarter, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous Old Quarter. Rated with 4 stars, this high-quality property provides guests with access to massage, restaurant and fitness center on-site.",
+    "distance": "445",
+    "featured": false,
+    "name": "May De Ville Legend Hotel & Spa",
+    "photos": [
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Fhotel_1655368450.jpg?alt=media&token=88688564-3d0e-46b0-99e9-ffb611ce4751",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Fhotel_1659323584.jpg?alt=media&token=90a324ce-ecba-4780-8475-101b68383df3",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Fhotel_1661758629.jpg?alt=media&token=da797e05-b960-4034-9f07-34280b926d1b",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2Fhotel_1661758721.jpg?alt=media&token=b96a7990-901c-4412-8823-fc23b7891735"
+    ],
+    "rooms": ["6311be30f2fce6ea18172fa8", "6311be52f2fce6ea18172faf"],
+    "title": "May De Ville Legend Hotel & Spa",
+    "type": "hotel",
+    "rating": 4
+  },
+  {
+    "address": "289-291 Ly Tu Trong Street, Ben Thanh Ward, District 1, District 1, Ho Chi Minh City, Vietnam",
+    "cheapestPrice": 350,
+    "city": "Ho Chi Minh",
+    "desc": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Strategically situated in District 1, allowing you access and proximity to local attractions and sights. Don't leave before paying a visit to the famous War Remnants Museum. Rated with 4 stars, this high-quality property provides guests with access to massage, restaurant and fitness center on-site.",
+    "distance": "640",
+    "featured": true,
+    "name": "Alagon Saigon Hotel & Spa",
+    "photos": [
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F342349110.jpg?alt=media&token=c35e7d13-a672-48d4-ae0d-30cfc632aff0",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F342349064.jpg?alt=media&token=e0d554e5-5624-43fe-bed2-e55d4ef05eb7",
+      "https://firebasestorage.googleapis.com/v0/b/funix-way.appspot.com/o/xSeries%2FCCDN%2FNJS301%2FAssignment_Image%2FAssignment_02%2F342349111.jpg?alt=media&token=afa36329-c2f7-43bf-a82d-d54b46fdc244"
+    ],
+    "rooms": ["6311c083f2fce6ea18172fba", "6311c0a8f2fce6ea18172fc3"],
+    "title": "Alagon Saigon Hotel & Spa",
+    "type": "hotel",
+    "rating": 5
+  }
+]
